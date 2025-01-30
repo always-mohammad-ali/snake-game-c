@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🐍 Snake Game in C 🎮
 
 ## 📌 Project Overview
@@ -21,3 +22,6 @@ This is a **simple version of the classic Snake Game** written in **C**. The gam
 - **Development Tools:** Visual Studio Code, GitHub  
 
 ## 📂 Project Structure
+=======
+# snake-game-c
+>>>>>>> b52a69b74bbc1ed49fbfde2b0053590c022d6df1
