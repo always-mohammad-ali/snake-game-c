@@ -6,7 +6,7 @@ This is a **simple version of the classic Snake Game** written in **C**. The gam
 
 ## 👨‍💻 Team Members
 - **[Mohammad Ali]** - (GitHub: @[your-username])
-- **[Afif Ahmed Chowdhury]** - (GitHub: @[member2])
+- **[Afif Ahmed Chowdhury]** - (GitHub: @Aeth0n)
 - **[Fardin Hossain]** - (GitHub: @[member3])
 - **[Md Nahim]** - (GitHub: @[member4])
 
