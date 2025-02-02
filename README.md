@@ -9,6 +9,7 @@ This is a **simple version of the classic Snake Game** written in **C**. The gam
 - **[Afif Ahmed Chowdhury]** - (GitHub: @Aeth0n)
 - **[Fardin Hossain]** - (GitHub: @[member3])
 - **[Md Nahim]** - (GitHub: @[member4])
+-**[Jayonti Sarker]** - (GitHub: @Jayonti191106)
 
 ## 🚀 Features
 ✔️ **Classic snake movement**  
