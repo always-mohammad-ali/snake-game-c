@@ -8,7 +8,7 @@ This is a **simple version of the classic Snake Game** written in **C**. The gam
 - **[Mohammad Ali]** - (GitHub: @[your-username])
 - **[Afif Ahmed Chowdhury]** - (GitHub: @Aeth0n)
 - **[Fardin Hossain]** - (GitHub: @[member3])
-- **[Md Nahim]** - (GitHub: @[member4])
+- **[Md Nahim]** - (GitHub: @Nahim-251)
 - **[Jayonti Sarker]** - (GitHub:@Jayonti191106)
 
 
