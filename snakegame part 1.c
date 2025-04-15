@@ -6,9 +6,9 @@
 #include<stdlib.h>
 #include<time.h>
 #include<string.h>
- # define WIDTH 50
- # define HEIGHT 30
- # define SPEED 300
+ # define WIDTH 30
+ # define HEIGHT 20
+ # define SPEED 200
 
 int gameover,score;
 int x ,y;//snake head position
