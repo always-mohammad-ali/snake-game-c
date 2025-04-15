@@ -34,6 +34,15 @@ Setup();
 CONSOLE_CURSOR_INFO
 cursorInfo;
 GetConsoleCursorInfo(GetStdHandle(STD_OUTPUT_HANDLE),&cursorinfo);
+ while(!gameOver){
+  Draw();
+  Input();
+  Logic();
+  Sleep(SPEED);
+  system("cls");
+  printf("Game Over!Final Score:%d\n",score);
+  printf("Press any key to exit....");
+  getch();
 
 
 }
