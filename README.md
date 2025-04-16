@@ -24,10 +24,10 @@ This is a **simple version of the classic Snake Game** written in **C**. The gam
 
 ## Project Structure
 =======
-# snake-game-c/main.c
-# snake-game-c/README.md
-# snake-game-c/others/update presentation.pptx
-# snake-game-c/others/update reports.pdf
-# snake-game-c/others/final presentation.pptx
-# snake-game-c/others/final reports.pdf
-# snake-game-c/others/project demo video.mp4
+- **snake-game-c/main.c
+- **snake-game-c/README.md
+- **snake-game-c/others/update presentation.pptx
+- **snake-game-c/others/update reports.pdf
+- **snake-game-c/others/final presentation.pptx
+- **snake-game-c/others/final reports.pdf
+- **snake-game-c/others/project demo video.mp4
