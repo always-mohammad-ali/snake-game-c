@@ -1,0 +1,17 @@
+# Tools and libraries required to compile and run the Snake Game in C (Windows only)
+
+Compiler: GCC (MinGW) or any C compiler that supports Windows API
+
+Standard C Libraries:
+- stdio.h     # For input/output
+- conio.h     # For keyboard input (_kbhit, _getch) - Windows specific
+- windows.h   # For console cursor handling (gotoxy, cursor visibility)
+- stdlib.h    # For rand(), system(), etc.
+- time.h      # For seeding random number generator with time()
+
+Operating System:
+- Windows OS required (for conio.h and windows.h dependencies)
+
+Build Instructions:
+- Compile using GCC: gcc snake.c -o snake.exe
+- Run the executable: ./snake.exe
